@@ -10,7 +10,7 @@ Our meetings are also livestreamed to YouTube where questions and discussion inp
 
 Questions and input can be given at any time during our meetings, and we aim to address all questions and input at the end of a meeting if we don't address it during the discussion.
 
-* Discord invite: https://discord.com/invite/pTYsJME9xH
+* Discord invite: https://discord.gg/pTYsJME9xH
 
 ## Upcoming and previous meetings
 | Episode | Scheduled date | Agenda | Recording |
