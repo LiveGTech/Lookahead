@@ -2,7 +2,7 @@
 Scheduled for Tuesday, 25 October 2022 at 17:00 GMT
 
 ## Meeting access
-The meeting is to be held on Discord under the **LiveG Lookahead** stage. Everyone is welconme to attend and watch the meeting. Attendees may participate by asking questions or providing input to the discussion via the #lookahead channel.
+The meeting is to be held on Discord under the **LiveG Lookahead** stage. Everyone is welcome to attend and watch the meeting. Attendees may participate by asking questions or providing input to the discussion via the #lookahead channel.
 
 The meeting will also be livestreamed to YouTube where questions and discussion input can also be left in the chat, though there may be some delay before we respond to your messages due to the nature of livestreaming. A recording of the meeting will be available after it has finished.
 
