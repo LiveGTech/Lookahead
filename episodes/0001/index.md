@@ -8,7 +8,7 @@ The meeting will also be livestreamed to YouTube where questions and discussion 
 
 Questions and input can be given at any time, and we aim to address all questions and input at the end of the meeting if we don't address it during the discussion.
 
-* Discord invite: https://discord.com/invite/pTYsJME9xH
+* Discord invite: https://discord.gg/pTYsJME9xH
 
 ## Agenda
 * **Building LiveG OS for other platforms (James Livesey)**<br>
