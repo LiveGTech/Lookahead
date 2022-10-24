@@ -6,7 +6,7 @@ The meeting is to be held on Discord under the **LiveG Lookahead** stage. Everyo
 
 The meeting will also be livestreamed to YouTube where questions and discussion input can also be left in the chat, though there may be some delay before we respond to your messages due to the nature of livestreaming. A recording of the meeting will be available after it has finished.
 
-Questions and input can be given at any time, and we aim to address all questions and input at the end of the meeting if we don't address it during the discussion.
+Questions and input can be given at any time, and we aim to address all questions and input at the end of the meeting if we don't address them during the discussion.
 
 * Discord invite: https://discord.gg/pTYsJME9xH
 
