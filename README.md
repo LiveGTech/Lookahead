@@ -6,9 +6,9 @@ While LiveG's staff will be hosting the meetings, anyone is free to ask question
 ## Join the next meeting
 Our meetings are held on Discord under the **LiveG Lookahead** stage. Everyone is welcome to attend and watch ongoing meetings.
 
-Our meetings are also livestreamed to YouTube where questions and discussion input can also be left in the chat, though there may be some delay before we respond to your messages due to the nature of livestreaming. A recording of our meetings will be available after they has finish.
+Our meetings are also livestreamed to YouTube where questions and discussion input can also be left in the chat, though there may be some delay before we respond to your messages due to the nature of livestreaming. A recording of our meetings will be available after they have finished.
 
-Questions and input can be given at any time during our meetings, and we aim to address all questions and input at the end of a meeting if we don't address it during the discussion.
+Questions and input can be given at any time during our meetings, and we aim to address all questions and input at the end of a meeting if we don't address them during the discussion.
 
 * Discord invite: https://discord.gg/pTYsJME9xH
 
