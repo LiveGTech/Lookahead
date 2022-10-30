@@ -4,7 +4,7 @@ Join us for our weekly meeting where we discuss what's been happening in and aro
 While LiveG's staff will be hosting the meetings, anyone is free to ask questions and provide their input into those meetings, and we'll post our agendas for upcoming meetings so that you can keep updated with our plans going forward with LiveG.
 
 ## Join the next meeting
-Our meetings are held on Discord under the **LiveG Lookahead** stage. Everyone is welcome to attend and watch ongoing meetings.
+Our meetings are held on Discord under the **LiveG Lookahead** channel. Everyone is welcome to attend and watch ongoing meetings.
 
 Our meetings are also livestreamed to YouTube where questions and discussion input can also be left in the chat, though there may be some delay before we respond to your messages due to the nature of livestreaming. A recording of our meetings will be available after they have finished.
 
