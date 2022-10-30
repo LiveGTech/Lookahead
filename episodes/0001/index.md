@@ -1,5 +1,5 @@
 # LiveG Lookahead Episode 1
-Scheduled for Tuesday, 25 October 2022 at 17:00 GMT
+Scheduled for Tuesday, 25 October 2022 at 17:00 BST
 
 ## Meeting access
 The meeting is to be held on Discord under the **LiveG Lookahead** channel. Everyone is welcome to attend and watch the meeting. Attendees may participate by asking questions or providing input to the discussion via the #lookahead channel.
