@@ -14,7 +14,7 @@ Questions and input can be given at any time, and we aim to address all question
 * **Our path to releasing our first products (James Livesey)**<br>
   An overview of our current planned product line and a talk about what devices we should release first and how we should release them to the public. We'll also be discussing about how we should plan our OS feature and security updates.
 
-* **Building an decentralised online storage service (James Livesey)**<br>
+* **Building a decentralised online storage service (James Livesey)**<br>
   With our projects being largely web-based, it would be great to enhance their functionality by providing access to them through the internet. We'll be talking about the ways we could let users potentially access files from other devices over the web.
 
 * **Planning our eigth birthday on the 30th (James Livesey)**<br>
