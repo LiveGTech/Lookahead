@@ -15,6 +15,7 @@ Questions and input can be given at any time during our meetings, and we aim to 
 ## Upcoming and previous meetings
 | Episode | Scheduled date | Agenda | Recording |
 |--:|---|---|---|
-| 3 | Tuesday, 15 November 2022 at 17:00 GMT | _Not yet released_ | _Not yet recorded_ |
+| 4 | Tuesday, 22 November 2022 at 17:00 GMT | _Not yet released_ | _Not yet recorded_ |
+| 3 | Tuesday, 15 November 2022 at 17:00 GMT | [View](https://github.com/LiveGTech/Lookahead/blob/main/episodes/0003/index.md) | _Not yet recorded_ |
 | 2 | Tuesday, 1 November 2022 at 17:00 GMT | [View](https://github.com/LiveGTech/Lookahead/blob/main/episodes/0002/index.md) | [Watch](https://youtu.be/CaF17Hj6jEA) |
 | 1 | Tuesday, 25 October 2022 at 17:00 BST | [View](https://github.com/LiveGTech/Lookahead/blob/main/episodes/0001/index.md) | [Watch](https://youtu.be/tgyXH_XUXlo) |
