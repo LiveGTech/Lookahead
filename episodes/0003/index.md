@@ -17,5 +17,5 @@ Questions and input can be given at any time, and we aim to address all question
 * **Building a decentralised online storage service (James Livesey)**<br>
   With our projects being largely web-based, it would be great to enhance their functionality by providing access to them through the internet. We'll be talking about the ways we could let users potentially access files from other devices over the web.
 
-* **Planning our eigth birthday on the 30th (James Livesey)**<br>
+* **Planning our eighth birthday on the 30th (James Livesey)**<br>
   A discussion about what we should do to celebrate eight years of LiveG since its beginnings in 2014. We plan to review the past year of LiveG's projects and development and share the highlights of how far we've come.
