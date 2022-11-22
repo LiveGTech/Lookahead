@@ -18,4 +18,4 @@ Questions and input can be given at any time, and we aim to address all question
   As we have previously discussed in [our first episode](https://github.com/LiveGTech/Lookahead/blob/main/episodes/0001/index.md), we're building LiveG OS for other platforms, such as the PinePhone and Raspberry Pi. We'll be reporting on how we're doing with the status of this development project.
 
 * **Migrating users to open technologies (James Livesey)**<br>
-  Millions of users worldwide rely on software that runs on closed-source platforms to communicate with others and parform their tasks. We'll be taking a look at how we can make migration for users to open tech a seamless experience with Progressive Web Apps (PWAs).
+  Millions of users worldwide rely on software that runs on closed-source platforms to communicate with others and perform their tasks. We'll be taking a look at how we can make migration for users to open tech a seamless experience with Progressive Web Apps (PWAs).
