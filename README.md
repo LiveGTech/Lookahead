@@ -16,6 +16,7 @@ Questions and input can be given at any time during our meetings, and we aim to 
 | Episode | Scheduled date | Agenda | Recording |
 |--:|---|---|---|
 | 8 | Tuesday, 10 January 2023 at 17:00 GMT | _Not yet released_ | _Not yet recorded_ |
+| | _Christmas break_ | | |
 | 7 | Tuesday, 13 December 2022 at 17:00 GMT | [View](https://github.com/LiveGTech/Lookahead/blob/main/episodes/0007/index.md) | [Watch](https://youtu.be/j0p_f0KL5Kk) |
 | 6 | Tuesday, 6 December 2022 at 17:00 GMT | [View](https://github.com/LiveGTech/Lookahead/blob/main/episodes/0006/index.md) | [Watch](https://youtu.be/WaJqwDrfvjc) |
 | 5 | Tuesday, 29 November 2022 at 17:00 GMT | [View](https://github.com/LiveGTech/Lookahead/blob/main/episodes/0005/index.md) | [Watch](https://youtu.be/RAv6XrLknaA) |
