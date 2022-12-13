@@ -14,8 +14,8 @@ Questions and input can be given at any time, and we aim to address all question
 * **An update on making LiveG OS multiplatform (James Livesey)**<br>
   With it coming up to two months since we announced our plans to build LiveG OS for the PinePhone and Raspberry Pi devices, we'll be going through the current status of the project, in addition to seeing what's next for the development behind LiveG OS, which we hope to provide a new Alpha release for soon.
 
-* **How we can expand our community and resources (James Livesey)**<br>
+* **How we can expand our community (James Livesey)**<br>
   With recent ideas being formed for our strategy for interacting on social media and the internet, we'll be discussing other ways to both expand our community outreach and presence, in addition to gaining the necessary resources through accepting donations for what we've been building over the past few years.
 
-* **Expanding our product localisation to more languages (James Livesey)**<br>
+* **Expanding our product localisation (James Livesey)**<br>
   We'll be discussing about how we can further boost our localisation efforts for our software such as LiveG OS as we further our reach to a more international audience. We've already implemented localisation for some other languages such as French and Chinese, and we'll be thinking about what other languages to localise next.
