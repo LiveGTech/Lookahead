@@ -12,10 +12,10 @@ Questions and input can be given at any time, and we aim to address all question
 
 ## Agenda
 * **An update on LiveG OS 0.2.0 (James Livesey)**<br>
-  With all the planned features having been implemented into our upcoming Alpha release of LiveG OS, we'll be reporting the progress over the past few weeks with bringing the system closer to public release by building and testing it for multiple platforms.
+  With all the planned features having been implemented into our upcoming Alpha release of LiveG OS, we'll be reporting the progress over the past few weeks with bringing the system closer to a public release by building and testing it for multiple platforms.
 
 * **Getting ready for our next Showcase (James Livesey)**<br>
-  We will soon need to create our next episode of LiveG Showcase to publicly announce the new version of LiveG OS. We'll be covering what has already been done for this episode, and what will need to be produced and included in the video to ensure it contains information on all the changes we've implemented.
+  We will soon need to create our next episode of LiveG Showcase to publicly announce the new version of LiveG OS. We'll be covering what has already been done for this episode, and what will need to be produced and included in the video to ensure that it contains information on all the changes we've implemented.
 
 * **Choosing what's next for LiveG OS (James Livesey)**<br>
   After the release of LiveG OS 0.2.0, we'll be beginning work on version 0.3.0. We'll be dicussing what features we should include and prioritise in this next update based on previous discussions on LiveG Lookahead, and we'll be reviewing what features to add to our long-term roadmap in general.
