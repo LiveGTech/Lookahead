@@ -18,4 +18,4 @@ Questions and input can be given at any time, and we aim to address all question
   We will soon need to create our next episode of LiveG Showcase to publicly announce the new version of LiveG OS. We'll be covering what has already been done for this episode, and what will need to be produced and included in the video to ensure that it contains information on all the changes we've implemented.
 
 * **Choosing what's next for LiveG OS (James Livesey)**<br>
-  After the release of LiveG OS 0.2.0, we'll be beginning work on version 0.3.0. We'll be dicussing what features we should include and prioritise in this next update based on previous discussions on LiveG Lookahead, and we'll be reviewing what features to add to our long-term roadmap in general.
+  After the release of LiveG OS 0.2.0, we'll be beginning work on version 0.3.0. We'll be discussing what features we should include and prioritise in this next update based on previous discussions on LiveG Lookahead, and we'll be reviewing what features to add to our long-term roadmap in general.
