@@ -26,7 +26,7 @@ As a host for LiveG Lookahead, read this guide to see what tasks you need to com
   This is to ensure that speakers join in good time. The host should join the LiveG Lookahead voice channel.
 
 9. **Start OBS for pre-stream checks** (16:30)<br>
-  Check slides are correct and that microphone and audio output capture is working correctly. Start streaming to YouTube (don't go live yet). Planned speakers should join between 16:30 and 16:45 to test their microphone.
+  Check slides are correct and that microphone and audio output capture is working correctly. Start streaming to YouTube (don't go live yet). Planned speakers should join between 16:30 and 16:45 to test their microphone. **For Discord streaming, it is recommended to use Discord in the browser so that the client does not crash.**
 
 10. **Go live onto YouTube** (16:45)<br>
   The **Starting Soon** scene should remain shown until 17:00. All planned speakers may chat in preparation for the stream; YouTube viewers will not be able to hear this. Ensure that closed captions are enabled.
